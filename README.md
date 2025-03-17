@@ -1,36 +1,84 @@
-# Hi there, I'm Ransika Silva 👋
+<h1 align="center">Ransika Silva</h1>
+<h3 align="center">AI/ML Engineer & Full-Stack Developer</h3>
 
-Welcome to my GitHub profile! Here you'll find repositories showcasing my projects and contributions.
+I am a Software Engineering undergraduate with expertise in AI/ML, computer vision, and full-stack development. My passion lies in creating innovative solutions that leverage the power of artificial intelligence and software engineering. I am constantly exploring new technologies and techniques to push the boundaries of what's possible.
 
-## 🔭 I’m currently working on:
-- **SlotZi** project
-- Various **Machine Learning** projects
+## 🚀 Skills
 
-## 🌱 I’m currently learning:
-- **Machine Learning** techniques
-- **Algorithms** and their applications
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
 
-## 👯 I’m looking to collaborate on:
-- **Backend** and **Frontend** projects
-- **Machine learning** projects
-- Software development projects involving algorithms and data science
+## 📚 Education
 
-## 🤔 I’m looking for help with:
-- Advanced machine learning algorithms and techniques
-- Optimization and performance improvements in ML models
+- Bachelor of Engineering - BE, Software Engineering (Sep 2023 - Sep 2027)
+  - University of Westminster (Informatics Institute of Technology)
 
-## 💬 Ask me about:
-- Machine learning
-- Algorithms
-- Software engineering
-- Project development
+## 🌟 Featured Projects
 
-## 📫 How to reach me:
-- Email: [ransikasilva03.22@gmail.com](mailto:ransikasilva03.22@gmail.com)
-- LinkedIn: [www.linkedin.com/in/ransikasilva](https://www.linkedin.com/in/ransikasilva)
+### 🤖 AI-Powered Business Chatbot | Conversational AI
+- Built an AI chatbot for business inquiries using diverse data sources.
+- Utilized Retrieval Augmented Generation for context-aware responses.
+- Implemented with modular architecture, optimized for performance.
 
-## 😄 Pronouns: He/Him
+### 💰 Personal Finance Tracker | MERN Stack Web Application
+- Built a web app to track personal income and expenses using MongoDB and Node.js.
+- Developed features for user accounts, transaction categorization, and spending alerts.
+- Created visual charts to display financial data and spending patterns.
 
-## ⚡ Fun fact:
-- I'm passionate about solving complex problems with machine learning and building efficient algorithms!
+### 🎬 Movie Recommendation System | Machine Learning, Full Stack Development
+- Developing a movie recommendation system using collaborative & content-based filtering.
+- Built a RESTful API (Node.js, Express.js) and frontend (React.js).
+- Implementing a hybrid recommendation model for improved accuracy.
 
+### 🎰 SlotZi - Smart Space Booking System | SDGP (IIT)
+- Developed a real-time booking system with secure payments & notifications.
+- Built RESTful API (Node.js, Express.js) and mobile app (React Native).
+- Implemented real-time notifications and data sync using Supabase.
+
+### 🐱 Cat & Dog Classifier | Machine Learning
+- Created a deep learning classifier with 90%+ accuracy.
+- Built a Flask web app with real-time predictions.
+- Applied data augmentation (rotation, flip, zoom) for better generalization.
+
+*[View more projects...](https://ransikasilva.github.io/my-portfolio/)*
+
+## 🏆 Honors & Awards
+
+- 1st Place - Coderally 5.0 24hrs Hackathon & Workshop Series, IEEE Computer Society SBC of IIT
+- IEEE Xtreme 18.0 24hrs Hackathon, IEEE SBC of IIT
+
+## 📝 Publications
+
+- [Step-by-Step Guide: Building Your First Image Classification Project with Machine Learning](https://dev.to/ransikasilva/step-by-step-guide-building-your-first-image-classification-project-with-machine-learning)
+- [Data Augmentation Techniques for Improving the Robustness of Image Classifiers](https://dev.to/ransikasilva/data-augmentation-techniques-for-improving-the-robustness-of-image-classifiers)
+- [Machine Learning a Powerful Tool in the Fight Against Cyber Threats](https://dev.to/ransikasilva/machine-learning-a-powerful-tool-in-the-fight-against-cyber-threats)
+- [Cybersecurity Applications of Image Classifications](https://dev.to/ransikasilva/cybersecurity-applications-of-image-classifications)
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:ransikasilva03.22@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/ransikasilva">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://ransikasilva.github.io/my-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+## 🔮 Futuristic Vision
+
+I am driven by a futuristic vision where AI and software engineering converge to revolutionize industries and improve lives. I believe in the power of technology to solve complex problems and create a better future. Through my work, I aim to contribute to the advancement of AI and software development, pushing the boundaries of what's possible.

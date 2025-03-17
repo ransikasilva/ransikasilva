@@ -63,7 +63,7 @@ I am a Software Engineering undergraduate with expertise in AI/ML, computer visi
 - [Step-by-Step Guide: Building Your First Image Classification Project with Machine Learning](https://dev.to/ransikasilva/step-by-step-guide-building-your-first-image-classification-project-with-machine-learning)
 - [Data Augmentation Techniques for Improving the Robustness of Image Classifiers](https://dev.to/ransikasilva/data-augmentation-techniques-for-improving-the-robustness-of-image-classifiers)
 - [Machine Learning a Powerful Tool in the Fight Against Cyber Threats](https://dev.to/ransikasilva/machine-learning-a-powerful-tool-in-the-fight-against-cyber-threats)
-- [Cybersecurity Applications of Image Classifications](https://dev.to/ransikasilva/cybersecurity-applications-of-image-classifications)
+- [Cybersecurity Applications of Image Classifications]([https://dev.to/ransikasilva/cybersecurity-applications-of-image-classifications](https://dev.to/ransika_silva_03/cybersecurity-applications-of-image-classification-4eid))
 
 ## 📫 Let's Connect
 

@@ -19,6 +19,14 @@ I am a Software Engineering undergraduate with expertise in AI/ML, computer visi
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
+
+## 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ransikasilva&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" /><br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ransikasilva&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</p>
+
 ## 📚 Education
 
 - Bachelor of Engineering - BE, Software Engineering (Sep 2023 - Sep 2027)
